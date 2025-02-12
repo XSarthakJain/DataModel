@@ -1,0 +1,11 @@
+Ride Sharing Apps
+
+Requirements:
+1. Track Driver availabliity
+2.Customer can Book Ride
+3. Track ride Status (Requested,Completed,Canceled, In Progress)
+4. Store ride detials(PickUp,drop off Location , Time, Fare Calculation)
+5. Multiple Payment Methods
+6. Store Payment Status (Panding, Failed, Refunded)
+7. Store real time distance and duration
+8. Maintain dynamic Pricing based on demand and surge
