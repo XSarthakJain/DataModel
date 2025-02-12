@@ -1,0 +1,30 @@
+Entities:
+user, post,comment,like, follower
+
+1. User-Related Queries:
+Fetch user details (profile information, bio, profile picture).
+Retrieve a user's followers and the users they follow.
+Find mutual followers between two users.
+2. Post-Related Queries:
+Get all posts created by a specific user.
+Fetch posts for a user's feed (including posts from followed users).
+Retrieve posts based on visibility settings (public, private, friends-only).
+3. Engagement & Interaction Queries:
+Get all comments on a post (including nested replies).
+Fetch the number of likes on a post or comment.
+Retrieve the list of users who liked a specific post or comment.
+Identify trending posts based on likes/comments within a timeframe.
+4. Follower & Relationship Queries:
+Check if a user follows another user.
+Suggest potential friends based on mutual connections.
+Get a list of a user’s most engaged followers.
+5. Activity & Analytics Queries:
+Track the number of posts a user has made over time.
+Get engagement metrics (likes, comments) for a post over a specific period.
+Identify the most active users on the platform.
+
+
+
+
+
+
