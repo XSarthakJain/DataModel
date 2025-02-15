@@ -1,0 +1,24 @@
+                                                                      Movie_Booking App
+Business Requirements:
+User Management:
+
+Users should be able to register, log in, and manage their profiles.
+Users can save payment details for faster checkout.
+Movie Management:
+
+The platform should store details about movies, including title, genre, duration, language, and release date.
+Movies may have different versions (e.g., 2D, 3D, IMAX).
+Theater & Show Management:
+
+Multiple theaters in different locations should be supported.
+Each theater has multiple screens.
+Movies will have scheduled shows (date, time, screen, and format).
+Seat Booking & Pricing:
+
+Users can view available seats and select them.
+Seats are categorized (e.g., Standard, Premium, VIP) with different pricing.
+The system should prevent double booking of the same seat.
+Payment & Confirmation:
+
+Users should be able to pay via multiple methods (credit card, UPI, wallets, etc.).
+The system should generate e-tickets upon successful payment.
