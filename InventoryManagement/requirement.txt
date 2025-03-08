@@ -1,0 +1,17 @@
+Question:
+You need to design a data model for an Inventory Management System. Assume this is an OLTP system that should efficiently handle real-time
+inventory tracking, stock management, and order processing.
+
+Functional Requirements:
+Product Management – The system should store details about products, including name, category, SKU, price, and supplier.
+Inventory Tracking – Track stock levels for each product in different warehouses or stores.
+Supplier Management – Maintain information about suppliers providing products.
+Order Management – Support customer orders, including order placement, status tracking, and fulfillment.
+Stock Movement – Maintain logs of stock additions, removals, and transfers between locations.
+Purchase Orders – Allow businesses to create and track purchase orders from suppliers.
+Audit & Reporting – Generate stock reports, low inventory alerts, and transaction logs.
+
+Non-Functional Requirements:
+Performance – The system should support fast stock lookups and updates.
+Scalability – It should handle multiple warehouses and large product catalogs.
+Data Integrity – Ensure consistency when stock levels change.
